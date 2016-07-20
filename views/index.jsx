@@ -13,9 +13,11 @@ export default class Index extends React.Component{
         <body>
         	<header>
         		<div>
-        			<figure>
-        				<img src="images/logo.png" width="220"/>
-        			</figure>
+        			<a href="/">
+	        			<figure>
+	        				<img src="images/logo.png" width="220"/>
+	        			</figure>
+        			</a>
         			<a href="https://github.com/deivijt/pokedex-react" target="_blank">
         				<img src="images/repo.png" width="40"/> 
         			</a>
